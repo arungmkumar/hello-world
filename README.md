@@ -1,3 +1,3 @@
 # hello-world
 My first github contribution
-My Bame is Arun. I love to code.
+My Name is Arun. I love to code.
